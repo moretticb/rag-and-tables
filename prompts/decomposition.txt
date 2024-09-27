@@ -1,4 +1,4 @@
 # PROMPT FOR DECOMPOSITION (gemini-1.5-pro-001 with temperature=0):
 
-[IMAGE GOES HERE]
+# [IMAGE GOES HERE]
 Explain every cell of the table above in a bullet-point list. Each element of the list should be a complete and independent piece of information, describing what that value (text or number) is about, considering its headers. Continue this list redundantly for every cell in this list. Do not explain cells of headers. Consider only the values. Do not include math operations in this list, but only descriptive observations about table values. The list must contain only explanations of the technical details of the table from cell values. Complementary information that explains how to read the table must be in a separate paragraph.

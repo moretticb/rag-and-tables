@@ -1,0 +1,163 @@
+<table>
+  <tr>
+    <td colspan="8" align="center">Table 1: Experiences in practical Physics work</td>
+  </tr>
+  <tr>
+    <td>Group</td>
+    <td align="center">N</td>
+    <td align="center">positive</td>
+    <td align="center">%<br />neutral</td>
+    <td align="center">negative</td>
+    <td align="center" colspan="3">Comparisons</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td align="center">χ²</td>
+    <td align="center">df</td>
+    <td align="center">p</td>
+  </tr>
+  <tr>
+    <td rowspan="2">Q1 (a)
+      <hr />
+      <span style="background-color:powderblue;">University group</span><br />
+      <span style="background-color:palegreen;">School group</span>
+    </td>
+    <td align="center">150</td>
+    <td align="center">73</td>
+    <td align="center">7</td>
+    <td align="center">20</td>
+    <td align="center" rowspan="2">0.9</td>
+    <td align="center" rowspan="2">4</td>
+    <td align="center" rowspan="2">ns</td>
+  </tr>
+  <tr>
+    <td align="center">150</td>
+    <td align="center">70</td>
+    <td align="center">8</td>
+    <td align="center">22</td>
+  </tr>
+  <tr>
+    <td rowspan="2">Q1 (b)
+      <hr />
+      <span style="background-color:powderblue;">University group</span><br />
+      <span style="background-color:palegreen;">School group</span>
+    </td>
+    <td align="center">150</td>
+    <td align="center">34</td>
+    <td align="center">11</td>
+    <td align="center">55</td>
+    <td align="center" rowspan="2">3.9</td>
+    <td align="center" rowspan="2">4</td>
+    <td align="center" rowspan="2">ns</td>
+  </tr>
+  <tr>
+    <td align="center">150</td>
+    <td align="center">38</td>
+    <td align="center">7</td>
+    <td align="center">55</td>
+  </tr>
+  <tr>
+    <td rowspan="2">Q1 (c)
+      <hr />
+      <span style="background-color:powderblue;">University group</span><br />
+      <span style="background-color:palegreen;">School group</span>
+    </td>
+    <td align="center">150</td>
+    <td align="center">70</td>
+    <td align="center">8</td>
+    <td align="center">22</td>
+    <td align="center" rowspan="2">2.4</td>
+    <td align="center" rowspan="2">4</td>
+    <td align="center" rowspan="2">ns</td>
+  </tr>
+  <tr>
+    <td align="center">150</td>
+    <td align="center">65</td>
+    <td align="center">10</td>
+    <td align="center">25</td>
+  </tr>
+  <tr>
+    <td rowspan="2">Q1 (d)
+      <hr />
+      <span style="background-color:powderblue;">University group</span><br />
+      <span style="background-color:palegreen;">School group</span>
+    </td>
+    <td align="center">150</td>
+    <td align="center">52</td>
+    <td align="center">12</td>
+    <td align="center">36</td>
+    <td align="center" rowspan="2">13.7</td>
+    <td align="center" rowspan="2">4</td>
+    <td align="center" rowspan="2">¡ 0.05</td>
+  </tr>
+  <tr>
+    <td align="center">150</td>
+    <td align="center">44</td>
+    <td align="center">15</td>
+    <td align="center">41</td>
+  </tr>
+  <tr>
+    <td rowspan="2">Q1 (e)
+      <hr />
+      <span style="background-color:powderblue;">University group</span><br />
+      <span style="background-color:palegreen;">School group</span>
+    </td>
+    <td align="center">150</td>
+    <td align="center">31</td>
+    <td align="center">14</td>
+    <td align="center">55</td>
+    <td align="center" rowspan="2">14.8</td>
+    <td align="center" rowspan="2">4</td>
+    <td align="center" rowspan="2">¡ 0.01</td>
+  </tr>
+  <tr>
+    <td align="center">150</td>
+    <td align="center">46</td>
+    <td align="center">11</td>
+    <td align="center">43</td>
+  </tr>
+  <tr>
+    <td rowspan="2">Q1 (f)
+      <hr />
+      <span style="background-color:powderblue;">University group</span><br />
+      <span style="background-color:palegreen;">School group</span>
+    </td>
+    <td align="center">150</td>
+    <td align="center">63</td>
+    <td align="center">12</td>
+    <td align="center">25</td>
+    <td align="center" rowspan="2">1.1</td>
+    <td align="center" rowspan="2">4</td>
+    <td align="center" rowspan="2">ns</td>
+  </tr>
+  <tr>
+    <td align="center">150</td>
+    <td align="center">65</td>
+    <td align="center">9</td>
+    <td align="center">26</td>
+  </tr>
+  <tr>
+    <td rowspan="2">Q1 (g)
+      <hr />
+      <span style="background-color:powderblue;">University group</span><br />
+      <span style="background-color:palegreen;">School group</span>
+    </td>
+    <td align="center">150</td>
+    <td align="center">36</td>
+    <td align="center">15</td>
+    <td align="center">49</td>
+    <td align="center" rowspan="2">94.4</td>
+    <td align="center" rowspan="2">4</td>
+    <td align="center" rowspan="2">¡0.001</td>
+  </tr>
+  <tr>
+    <td align="center">150</td>
+    <td align="center">68</td>
+    <td align="center">11</td>
+    <td align="center">21</td>
+  </tr>
+</table>

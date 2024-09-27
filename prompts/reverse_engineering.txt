@@ -4,5 +4,5 @@
 # from markdown), and is more intuitive than a JSON structure when feeding into
 # an LLM.
 
-[IMAGE GOES HERE]
+#[IMAGE GOES HERE]
 Write an HTML representation of the table above. It must reproduce it exactly as it appears in the image.
