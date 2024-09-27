@@ -18,7 +18,7 @@ def generate(b64_image,prompt):
     responses = model.generate_content(
         [image, prompt],
         generation_config=generation_config,
-        safety_settings=safety_settings,
+        safety_settings=None,
         stream=True,
     )
 
@@ -32,24 +32,6 @@ generation_config = {
     "top_p": 0.95,
 }
 
-safety_settings = [
-    SafetySetting(
-        category=SafetySetting.HarmCategory.HARM_CATEGORY_HATE_SPEECH,
-        threshold=SafetySetting.HarmBlockThreshold.OFF
-    ),
-    SafetySetting(
-        category=SafetySetting.HarmCategory.HARM_CATEGORY_DANGEROUS_CONTENT,
-        threshold=SafetySetting.HarmBlockThreshold.OFF
-    ),
-    SafetySetting(
-        category=SafetySetting.HarmCategory.HARM_CATEGORY_SEXUALLY_EXPLICIT,
-        threshold=SafetySetting.HarmBlockThreshold.OFF
-    ),
-    SafetySetting(
-        category=SafetySetting.HarmCategory.HARM_CATEGORY_HARASSMENT,
-        threshold=SafetySetting.HarmBlockThreshold.OFF
-    ),
-]
 
 if __name__ == "__main__":
     options = ["decomposition","reverse_engineering"]
