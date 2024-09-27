@@ -1,0 +1,22 @@
+[tool.poetry]
+name = "rag-and-tables"
+version = "0.1.0"
+description = ""
+authors = ["Caio Benatti Moretti <caiodba@gmail.com>"]
+readme = "README.md"
+packages = [{include = "rag_and_tables"}]
+
+[tool.poetry.dependencies]
+python = "^3.10"
+pdftotext = "2.2.2"
+pypdf = "4.3.1"
+openai = "^1.50.0"
+google-generativeai = "^0.8.2"
+numpy = "^2.1.1"
+pandas = "^2.2.3"
+matplotlib = "^3.9.2"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

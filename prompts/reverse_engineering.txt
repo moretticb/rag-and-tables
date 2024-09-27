@@ -1,4 +1,8 @@
-PROMPT FOR REVERSE ENGINEERING (gemini-1.5-pro-001 with temperature=0):
+# PROMPT FOR REVERSE ENGINEERING (gemini-1.5-pro-001 with temperature=0):
+#
+#   Decided to use HTML as the final structure, as it can merge cells (different
+# from markdown), and is more intuitive than a JSON structure when feeding into
+# an LLM.
 
-[IMAGE]
+[IMAGE GOES HERE]
 Write an HTML representation of the table above. It must reproduce it exactly as it appears in the image.
