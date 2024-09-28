@@ -5,7 +5,7 @@ import sys
 
 
 def generate(b64_image,prompt):
-    vertexai.init(project="PROJECT_GOES_HERE", location="LOCATION_GOES_HERE")
+    vertexai.init(project="caio-benatti-sndbx-s", location="us-central1")
     model = GenerativeModel(
         "gemini-1.5-pro-001",
     )

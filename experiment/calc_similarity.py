@@ -1,9 +1,5 @@
 import numpy as np
 import pandas as pd
-import sys
-
-import matplotlib.pyplot as plt
-
 
 import os
 import google.generativeai as genai
@@ -30,13 +26,13 @@ def embed_gcp(content):
     )["embedding"]
 
 
-with open("../../chunks/chunk_decomp.txt","r") as f:
+with open("../chunks/chunk_decomp.txt","r") as f:
     chunk_decomp = f.read()
 
-with open("../../chunks/chunk_reveng.txt","r") as f:
+with open("../chunks/chunk_reveng.txt","r") as f:
     chunk_reveng = f.read()
 
-with open("../../chunks/chunk_pypdf.txt","r") as f:
+with open("../chunks/chunk_pypdf.txt","r") as f:
     chunk_pypdf = f.read()
 
 queries = [
@@ -149,58 +145,6 @@ for query in queries:
 df_queries = pd.DataFrame({"query":queries})
 df_results = pd.DataFrame(data)
 
-
-
-##### PLOTTING
-if __name__ == "__main__":
-
-
-    vendors = ["oai","gcp"]
-    vendor="oai" #default
-
-    similarities = ["cosine","euclidean"]
-    sim="cosine" #default
-
-    flag = None
-    for i,arg in enumerate(sys.argv):
-        if i==0:
-            continue
-        if arg[0] == "-": # flag
-            flag = arg.split("-")[-1][0]
-        else: # value of flag
-            if flag[0] == 'v':
-                for v in vendors:
-                    if arg in v:
-                        vendor = v
-                    
-            elif flag[0] == 's':
-                for s in similarities:
-                    if arg in s:
-                        sim = s
-            flag=None
-
-    print(f"Comparing {vendor} embeddings with {sim} similarity")
-
-
-
-    df_plot = (
-        df_results
-        .loc[lambda x: x["embedding"]=="oai"]
-        .sort_values(["query",sim],ascending=sim=="euclidean")[["query",sim,"approach"]]
-        .pivot(index="query",columns="approach",values=sim)
-    )
-
-    df_plot.index = df_plot.index+1
-    df_plot.columns.name = "Approach"
-    df_plot.index.name = "Query"
-    df_plot = df_plot.rename(columns={"decomp":"Decomposition","reveng":"Rev. Engineering"})
-
-
-    df_plot.plot.bar(color=['red','green','blue'])
-    plt.title("Similarity between queries and chunks embeddings")
-    plt.ylim([df_plot.min().min()*0.9,df_plot.max().max()*1.1])
-    plt.ylabel(sim[0].upper()+sim[1:])
-    plt.xticks(rotation=0)
-    plt.show()
-
+print("\n\nSaving results...")
+df_results.to_csv("embedding_comparisons.csv")
 
