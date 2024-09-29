@@ -1,79 +1,79 @@
-- 150 is the number of students in the University group that answered question Q1 (a).
-- 73% of the students in the University group answered positively to question Q1 (a).
-- 7% of the students in the University group answered neutrally to question Q1 (a).
-- 20% of the students in the University group answered negatively to question Q1 (a).
-- 150 is the number of students in the School group that answered question Q1 (a).
-- 70% of the students in the School group answered positively to question Q1 (a).
-- 8% of the students in the School group answered neutrally to question Q1 (a).
-- 22% of the students in the School group answered negatively to question Q1 (a).
-- 0.9 is the chi-squared value for the comparison between the University group and the School group for question Q1 (a).
-- 4 are the degrees of freedom for the comparison between the University group and the School group for question Q1 (a).
-- ns means that the difference between the University group and the School group for question Q1 (a) is not statistically significant.
-- 150 is the number of students in the University group that answered question Q1 (b).
-- 34% of the students in the University group answered positively to question Q1 (b).
-- 11% of the students in the University group answered neutrally to question Q1 (b).
-- 55% of the students in the University group answered negatively to question Q1 (b).
-- 150 is the number of students in the School group that answered question Q1 (b).
-- 38% of the students in the School group answered positively to question Q1 (b).
-- 7% of the students in the School group answered neutrally to question Q1 (b).
-- 55% of the students in the School group answered negatively to question Q1 (b).
-- 3.9 is the chi-squared value for the comparison between the University group and the School group for question Q1 (b).
-- 4 are the degrees of freedom for the comparison between the University group and the School group for question Q1 (b).
-- ns means that the difference between the University group and the School group for question Q1 (b) is not statistically significant.
-- 150 is the number of students in the University group that answered question Q1 (c).
-- 70% of the students in the University group answered positively to question Q1 (c).
-- 8% of the students in the University group answered neutrally to question Q1 (c).
-- 22% of the students in the University group answered negatively to question Q1 (c).
-- 150 is the number of students in the School group that answered question Q1 (c).
-- 65% of the students in the School group answered positively to question Q1 (c).
-- 10% of the students in the School group answered neutrally to question Q1 (c).
-- 25% of the students in the School group answered negatively to question Q1 (c).
-- 2.4 is the chi-squared value for the comparison between the University group and the School group for question Q1 (c).
-- 4 are the degrees of freedom for the comparison between the University group and the School group for question Q1 (c).
-- ns means that the difference between the University group and the School group for question Q1 (c) is not statistically significant.
-- 150 is the number of students in the University group that answered question Q1 (d).
-- 52% of the students in the University group answered positively to question Q1 (d).
-- 12% of the students in the University group answered neutrally to question Q1 (d).
-- 36% of the students in the University group answered negatively to question Q1 (d).
-- 150 is the number of students in the School group that answered question Q1 (d).
-- 44% of the students in the School group answered positively to question Q1 (d).
-- 15% of the students in the School group answered neutrally to question Q1 (d).
-- 41% of the students in the School group answered negatively to question Q1 (d).
-- 13.7 is the chi-squared value for the comparison between the University group and the School group for question Q1 (d).
-- 4 are the degrees of freedom for the comparison between the University group and the School group for question Q1 (d).
-- ¡ 0.05 means that the difference between the University group and the School group for question Q1 (d) is statistically significant at the 0.05 level.
-- 150 is the number of students in the University group that answered question Q1 (e).
-- 31% of the students in the University group answered positively to question Q1 (e).
-- 14% of the students in the University group answered neutrally to question Q1 (e).
-- 55% of the students in the University group answered negatively to question Q1 (e).
-- 150 is the number of students in the School group that answered question Q1 (e).
-- 46% of the students in the School group answered positively to question Q1 (e).
-- 11% of the students in the School group answered neutrally to question Q1 (e).
-- 43% of the students in the School group answered negatively to question Q1 (e).
-- 14.8 is the chi-squared value for the comparison between the University group and the School group for question Q1 (e).
-- 4 are the degrees of freedom for the comparison between the University group and the School group for question Q1 (e).
-- ¡ 0.01 means that the difference between the University group and the School group for question Q1 (e) is statistically significant at the 0.01 level.
-- 150 is the number of students in the University group that answered question Q1 (f).
-- 63% of the students in the University group answered positively to question Q1 (f).
-- 12% of the students in the University group answered neutrally to question Q1 (f).
-- 25% of the students in the University group answered negatively to question Q1 (f).
-- 150 is the number of students in the School group that answered question Q1 (f).
-- 65% of the students in the School group answered positively to question Q1 (f).
-- 9% of the students in the School group answered neutrally to question Q1 (f).
-- 26% of the students in the School group answered negatively to question Q1 (f).
-- 1.1 is the chi-squared value for the comparison between the University group and the School group for question Q1 (f).
-- 4 are the degrees of freedom for the comparison between the University group and the School group for question Q1 (f).
-- ns means that the difference between the University group and the School group for question Q1 (f) is not statistically significant.
-- 150 is the number of students in the University group that answered question Q1 (g).
-- 36% of the students in the University group answered positively to question Q1 (g).
-- 15% of the students in the University group answered neutrally to question Q1 (g).
-- 49% of the students in the University group answered negatively to question Q1 (g).
-- 150 is the number of students in the School group that answered question Q1 (g).
-- 68% of the students in the School group answered positively to question Q1 (g).
-- 11% of the students in the School group answered neutrally to question Q1 (g).
-- 21% of the students in the School group answered negatively to question Q1 (g).
-- 94.4 is the chi-squared value for the comparison between the University group and the School group for question Q1 (g).
-- 4 are the degrees of freedom for the comparison between the University group and the School group for question Q1 (g).
-- ¡0.001 means that the difference between the University group and the School group for question Q1 (g) is statistically significant at the 0.001 level.
+- 150 is the number of students in the University group for question Q1 (a).
+- 73% of the students in the University group for question Q1 (a) answered "positive".
+- 7% of the students in the University group for question Q1 (a) answered "neutral".
+- 20% of the students in the University group for question Q1 (a) answered "negative".
+- 150 is the number of students in the School group for question Q1 (a).
+- 70% of the students in the School group for question Q1 (a) answered "positive".
+- 8% of the students in the School group for question Q1 (a) answered "neutral".
+- 22% of the students in the School group for question Q1 (a) answered "negative".
+- 0.9 is the chi-squared value for question Q1 (a).
+- 4 is the degrees of freedom for question Q1 (a).
+- ns means that the p-value for question Q1 (a) is not statistically significant.
+- 150 is the number of students in the University group for question Q1 (b).
+- 34% of the students in the University group for question Q1 (b) answered "positive".
+- 11% of the students in the University group for question Q1 (b) answered "neutral".
+- 55% of the students in the University group for question Q1 (b) answered "negative".
+- 150 is the number of students in the School group for question Q1 (b).
+- 38% of the students in the School group for question Q1 (b) answered "positive".
+- 7% of the students in the School group for question Q1 (b) answered "neutral".
+- 55% of the students in the School group for question Q1 (b) answered "negative".
+- 3.9 is the chi-squared value for question Q1 (b).
+- 4 is the degrees of freedom for question Q1 (b).
+- ns means that the p-value for question Q1 (b) is not statistically significant.
+- 150 is the number of students in the University group for question Q1 (c).
+- 70% of the students in the University group for question Q1 (c) answered "positive".
+- 8% of the students in the University group for question Q1 (c) answered "neutral".
+- 22% of the students in the University group for question Q1 (c) answered "negative".
+- 150 is the number of students in the School group for question Q1 (c).
+- 65% of the students in the School group for question Q1 (c) answered "positive".
+- 10% of the students in the School group for question Q1 (c) answered "neutral".
+- 25% of the students in the School group for question Q1 (c) answered "negative".
+- 2.4 is the chi-squared value for question Q1 (c).
+- 4 is the degrees of freedom for question Q1 (c).
+- ns means that the p-value for question Q1 (c) is not statistically significant.
+- 150 is the number of students in the University group for question Q1 (d).
+- 52% of the students in the University group for question Q1 (d) answered "positive".
+- 12% of the students in the University group for question Q1 (d) answered "neutral".
+- 36% of the students in the University group for question Q1 (d) answered "negative".
+- 150 is the number of students in the School group for question Q1 (d).
+- 44% of the students in the School group for question Q1 (d) answered "positive".
+- 15% of the students in the School group for question Q1 (d) answered "neutral".
+- 41% of the students in the School group for question Q1 (d) answered "negative".
+- 13.7 is the chi-squared value for question Q1 (d).
+- 4 is the degrees of freedom for question Q1 (d).
+- ¡ 0.05 means that the p-value for question Q1 (d) is less than 0.05 and statistically significant.
+- 150 is the number of students in the University group for question Q1 (e).
+- 31% of the students in the University group for question Q1 (e) answered "positive".
+- 14% of the students in the University group for question Q1 (e) answered "neutral".
+- 55% of the students in the University group for question Q1 (e) answered "negative".
+- 150 is the number of students in the School group for question Q1 (e).
+- 46% of the students in the School group for question Q1 (e) answered "positive".
+- 11% of the students in the School group for question Q1 (e) answered "neutral".
+- 43% of the students in the School group for question Q1 (e) answered "negative".
+- 14.8 is the chi-squared value for question Q1 (e).
+- 4 is the degrees of freedom for question Q1 (e).
+- ¡ 0.01 means that the p-value for question Q1 (e) is less than 0.01 and statistically significant.
+- 150 is the number of students in the University group for question Q1 (f).
+- 63% of the students in the University group for question Q1 (f) answered "positive".
+- 12% of the students in the University group for question Q1 (f) answered "neutral".
+- 25% of the students in the University group for question Q1 (f) answered "negative".
+- 150 is the number of students in the School group for question Q1 (f).
+- 65% of the students in the School group for question Q1 (f) answered "positive".
+- 9% of the students in the School group for question Q1 (f) answered "neutral".
+- 26% of the students in the School group for question Q1 (f) answered "negative".
+- 1.1 is the chi-squared value for question Q1 (f).
+- 4 is the degrees of freedom for question Q1 (f).
+- ns means that the p-value for question Q1 (f) is not statistically significant.
+- 150 is the number of students in the University group for question Q1 (g).
+- 36% of the students in the University group for question Q1 (g) answered "positive".
+- 15% of the students in the University group for question Q1 (g) answered "neutral".
+- 49% of the students in the University group for question Q1 (g) answered "negative".
+- 150 is the number of students in the School group for question Q1 (g).
+- 68% of the students in the School group for question Q1 (g) answered "positive".
+- 11% of the students in the School group for question Q1 (g) answered "neutral".
+- 21% of the students in the School group for question Q1 (g) answered "negative".
+- 94.4 is the chi-squared value for question Q1 (g).
+- 4 is the degrees of freedom for question Q1 (g).
+- ¡0.001 means that the p-value for question Q1 (g) is less than 0.001 and statistically significant.
 
-The table presents the results of a survey conducted on two groups of students, one from a university and one from a school, about their experiences in practical Physics work. The table is divided into seven sections, each representing a different question (Q1 (a) to Q1 (g)). For each question, the table shows the percentage of students who answered positively, neutrally, or negatively. The table also shows the results of a chi-squared test, which was used to compare the responses of the two groups of students. The chi-squared test results include the chi-squared value, the degrees of freedom, and the p-value. The p-value indicates the probability of obtaining the observed results if there is no difference between the two groups of students. A p-value less than 0.05 is generally considered to be statistically significant, which means that there is a significant difference between the two groups of students.
+The table presents the results of a survey conducted on two groups of students, University group and School group, about their experiences in practical Physics work. The table is divided into seven sections, each representing a different question (Q1 (a) to Q1 (g)). For each question, the table shows the percentage of students who answered "positive", "neutral", or "negative". The table also shows the results of a chi-squared test of independence, which was used to determine whether there was a statistically significant difference between the responses of the two groups. The chi-squared value, degrees of freedom, and p-value are reported for each question. 

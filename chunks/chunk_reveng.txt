@@ -2,14 +2,10 @@
   <caption>Table 1: Experiences in practical Physics work</caption>
   <thead>
     <tr>
-      <th rowspan="2">Group</th>
-      <th rowspan="2">N</th>
-      <th colspan="3">%</th>
-      <th colspan="3">Comparisons</th>
-    </tr>
-    <tr>
+      <th>Group</th>
+      <th>N</th>
       <th>positive</th>
-      <th>neutral</th>
+      <th>%<br>neutral</th>
       <th>negative</th>
       <th>χ²</th>
       <th>df</th>
@@ -18,146 +14,125 @@
   </thead>
   <tbody>
     <tr>
-      <td colspan="8" rowspan="1">I prefer to have written instructions for experiments</td>
-    </tr>
-    <tr>
-      <td bgcolor="#ccffff">University group</td>
-      <td>150</td>
-      <td>73</td>
-      <td>7</td>
-      <td>20</td>
+      <td rowspan="2">Q1 (a)
+        <br>
+        <span style="background-color: #add8e6">University group</span><br>
+        <span style="background-color: #90ee90">School group</span>
+      </td>
+      <td rowspan="2">150<br>150</td>
+      <td rowspan="2">73<br>70</td>
+      <td rowspan="2">7<br>8</td>
+      <td rowspan="2">20<br>22</td>
       <td rowspan="2">0.9</td>
       <td rowspan="2">4</td>
       <td rowspan="2">ns</td>
     </tr>
     <tr>
-      <td bgcolor="#ccff99">School group</td>
-      <td>150</td>
-      <td>70</td>
-      <td>8</td>
-      <td>22</td>
+      <td colspan="5">I prefer to have written instructions for experiments</td>
     </tr>
     <tr>
-      <td colspan="8" rowspan="1">Practical work helps my understanding of Physics topics</td>
-    </tr>
-    <tr>
-      <td bgcolor="#ccffff">University group</td>
-      <td>150</td>
-      <td>34</td>
-      <td>11</td>
-      <td>55</td>
+      <td rowspan="2">Q1 (b)
+        <br>
+        <span style="background-color: #add8e6">University group</span><br>
+        <span style="background-color: #90ee90">School group</span>
+      </td>
+      <td rowspan="2">150<br>150</td>
+      <td rowspan="2">34<br>38</td>
+      <td rowspan="2">11<br>7</td>
+      <td rowspan="2">55<br>55</td>
       <td rowspan="2">3.9</td>
       <td rowspan="2">4</td>
       <td rowspan="2">ns</td>
     </tr>
     <tr>
-      <td bgcolor="#ccff99">School group</td>
-      <td>150</td>
-      <td>38</td>
-      <td>7</td>
-      <td>55</td>
+      <td colspan="5">Practical work helps my understanding of Physics topics</td>
     </tr>
     <tr>
-      <td colspan="8" rowspan="1">Discussions in the laboratory enhance my understanding of the subject</td>
-    </tr>
-    <tr>
-      <td bgcolor="#ccffff">University group</td>
-      <td>150</td>
-      <td>70</td>
-      <td>8</td>
-      <td>22</td>
+      <td rowspan="2">Q1 (c)
+        <br>
+        <span style="background-color: #add8e6">University group</span><br>
+        <span style="background-color: #90ee90">School group</span>
+      </td>
+      <td rowspan="2">150<br>150</td>
+      <td rowspan="2">70<br>65</td>
+      <td rowspan="2">8<br>10</td>
+      <td rowspan="2">22<br>25</td>
       <td rowspan="2">2.4</td>
       <td rowspan="2">4</td>
       <td rowspan="2">ns</td>
     </tr>
     <tr>
-      <td bgcolor="#ccff99">School group</td>
-      <td>150</td>
-      <td>65</td>
-      <td>10</td>
-      <td>25</td>
+      <td colspan="5">Discussions in the laboratory enhance my understanding of the subject</td>
     </tr>
     <tr>
-      <td colspan="8" rowspan="1">I felt confident in carrying out the experiments in Physics</td>
-    </tr>
-    <tr>
-      <td bgcolor="#ccffff">University group</td>
-      <td>150</td>
-      <td>52</td>
-      <td>12</td>
-      <td>36</td>
+      <td rowspan="2">Q1 (d)
+        <br>
+        <span style="background-color: #add8e6">University group</span><br>
+        <span style="background-color: #90ee90">School group</span>
+      </td>
+      <td rowspan="2">150<br>150</td>
+      <td rowspan="2">52<br>44</td>
+      <td rowspan="2">12<br>15</td>
+      <td rowspan="2">36<br>41</td>
       <td rowspan="2">13.7</td>
       <td rowspan="2">4</td>
       <td rowspan="2">¡ 0.05</td>
     </tr>
     <tr>
-      <td bgcolor="#ccff99">School group</td>
-      <td>150</td>
-      <td>44</td>
-      <td>15</td>
-      <td>41</td>
+      <td colspan="5">I felt confident in carrying out the experiments in Physics</td>
     </tr>
     <tr>
-      <td colspan="8" rowspan="1">The experimental procedure was clearly explained in the instructions
-      given</td>
-    </tr>
-    <tr>
-      <td bgcolor="#ccffff">University group</td>
-      <td>150</td>
-      <td>31</td>
-      <td>14</td>
-      <td>55</td>
+      <td rowspan="2">Q1 (e)
+        <br>
+        <span style="background-color: #add8e6">University group</span><br>
+        <span style="background-color: #90ee90">School group</span>
+      </td>
+      <td rowspan="2">150<br>150</td>
+      <td rowspan="2">31<br>46</td>
+      <td rowspan="2">14<br>11</td>
+      <td rowspan="2">55<br>43</td>
       <td rowspan="2">14.8</td>
       <td rowspan="2">4</td>
       <td rowspan="2">¡ 0.01</td>
     </tr>
     <tr>
-      <td bgcolor="#ccff99">School group</td>
-      <td>150</td>
-      <td>46</td>
-      <td>11</td>
-      <td>43</td>
+      <td colspan="5">The experimental procedure was clearly explained in the instructions
+        given</td>
     </tr>
     <tr>
-      <td colspan="8" rowspan="1">I was so confused in the laboratory that I ended up following the
-      instructions without understanding what I was doing</td>
-    </tr>
-    <tr>
-      <td bgcolor="#ccffff">University group</td>
-      <td>150</td>
-      <td>63</td>
-      <td>12</td>
-      <td>25</td>
+      <td rowspan="2">Q1 (f)
+        <br>
+        <span style="background-color: #add8e6">University group</span><br>
+        <span style="background-color: #90ee90">School group</span>
+      </td>
+      <td rowspan="2">150<br>150</td>
+      <td rowspan="2">63<br>65</td>
+      <td rowspan="2">12<br>9</td>
+      <td rowspan="2">25<br>26</td>
       <td rowspan="2">1.1</td>
       <td rowspan="2">4</td>
       <td rowspan="2">ns</td>
     </tr>
     <tr>
-      <td bgcolor="#ccff99">School group</td>
-      <td>150</td>
-      <td>65</td>
-      <td>9</td>
-      <td>26</td>
+      <td colspan="5">I was so confused in the laboratory that I ended up following the
+        instructions without understanding what I was doing</td>
     </tr>
     <tr>
-      <td colspan="8" rowspan="1">There was good linkage between experiments and the relevant theory</td>
-    </tr>
-    <tr>
-      <td bgcolor="#ccffff">University group</td>
-      <td>150</td>
-      <td>36</td>
-      <td>15</td>
-      <td>49</td>
+      <td rowspan="2">Q1 (g)
+        <br>
+        <span style="background-color: #add8e6">University group</span><br>
+        <span style="background-color: #90ee90">School group</span>
+      </td>
+      <td rowspan="2">150<br>150</td>
+      <td rowspan="2">36<br>68</td>
+      <td rowspan="2">15<br>11</td>
+      <td rowspan="2">49<br>21</td>
       <td rowspan="2">94.4</td>
       <td rowspan="2">4</td>
       <td rowspan="2">¡0.001</td>
     </tr>
     <tr>
-      <td bgcolor="#ccff99">School group</td>
-      <td>150</td>
-      <td>68</td>
-      <td>11</td>
-      <td>21</td>
+      <td colspan="5">There was good linkage between experiments and the relevant theory</td>
     </tr>
   </tbody>
 </table>
