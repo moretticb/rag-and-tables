@@ -1,6 +1,6 @@
 # RAG and tables
 
-Reproducible materials from the [RAG decomposition blog post](https://www.xebia.com/blog) on how to break down tables into better chunk formats, improving retrieval.
+Reproducible materials from the [RAG decomposition blog post](https://xebia.com/blog/decomposition-strategies-for-rag-insights-for-proper-ingestion-of-tables/) on how to break down tables into better chunk formats, improving retrieval.
 
 ## Setup
 
